@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jairo Hernandez</h1>
-<h3 align="center">A passionate frontend developer from the United States</h3>
+<h3 align="center">A passionate cyber security from the United States that can't wait to keep learning from his mistakes</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairoh82&label=Profile%20views&color=00d5ff&style=plastic" alt="jairoh82" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently studying  **comptia security+**
 
 - 📫 How to reach me **jairohernandez01234@gmial.com**
 
-- ⚡ Fun fact **Im able to learn quick**
+- ⚡ Fun fact **I'm able to customize cars and fix them**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
