@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairoh82&label=Profile%20views&color=00d5ff&style=plastic" alt="jairoh82" /> </p>
 
-- 🌱 I’m currently studying  **comptia security+**
+- 🌱 I’m currently studying for the **comptia security+ serticication**
 
 - 📫 How to reach me **jairohernandez01234@gmial.com**
 
