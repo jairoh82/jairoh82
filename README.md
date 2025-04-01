@@ -16,6 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | In progress |
+| Penetration Testing and Ethical Hacking         | In progress |
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/jairoh82/Detection-Lab/tree/main">Detection Lab</a>|
 
 ## Tools
