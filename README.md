@@ -36,6 +36,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/jairoh82/Detection-Lab/tree/main">Detection Lab</a>
+- <a href="https://github.com/jairoh82/Brute-Force/blob/main/README.md">Brute Force</a>
+- <a href="https://github.com/jairoh82/System-Monitoring-Dashboard">Dashboard Simulation </a>
 - SOC Automation Project
 
 <h3 align="left">Languages</h3>
