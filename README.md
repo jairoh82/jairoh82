@@ -9,7 +9,7 @@
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. But as we all know, we all need to put the work in to accomplish this. This is why I will be pursuing an IT specialist role to gain all the knowledge that is needed for a CyberSecurity career.
 
 ## Skills
 
