@@ -19,6 +19,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Penetration testing and Ethical Hacking          | <a href="https://github.com/jairoh82/Brute-Force/blob/main/README.md">Brute Force</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/jairoh82/Detection-Lab/tree/main">Detection Lab</a>|
 | System Monitoring Dashboard | <a href="https://github.com/jairoh82/System-Monitoring-Dashboard">Dashboard Simulation </a>|
+| Small IT Environment | <a href="https://github.com/jairoh82/Small-IT-Environment">Small IT Environment </a>|
 
 ## Tools
 
